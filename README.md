@@ -1,5 +1,5 @@
-# Dev-Finder
-Website Build for finding Developers
+# Drinks Ahoy
+Website Build for a drink shop that serves many types of drinks.
 
 ## Changes
 Added Header
