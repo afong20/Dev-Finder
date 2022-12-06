@@ -8,8 +8,7 @@ export default function Home() {
               <meta name='description' content='Find the best devs for your business.' />
               <title>Drinks Ahoy</title>
             </Head>
-            
-            <NavBar/>
+
             <LandingPageHeader/>
             <main>
    
