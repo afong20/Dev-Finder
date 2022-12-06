@@ -1,6 +1,7 @@
+import { ContentPageHeader } from "../components/headers";
 function SodasPage() {
     return (
-        <p>Sodas Page</p>
+        <ContentPageHeader type="Soda Drinks" title="Sugar Water" tagline="Thats probably not good for you."/>
     );
 }
 

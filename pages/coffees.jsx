@@ -1,6 +1,7 @@
+import {ContentPageHeader} from './../components/headers'
 function CoffeesPage() {
     return (
-        <p>Coffees Page</p>
+        <ContentPageHeader type="Coffee Drinks" title="Bean Water" tagline="Made into many different types of drinks."/>
     );
 }
 

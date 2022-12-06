@@ -1,6 +1,7 @@
+import { ContentPageHeader } from './../components/headers'
 function TeasPage() {
     return (
-        <p>Teas Page</p>
+        <ContentPageHeader type="Tea Drinks" title="Random Leafs" tagline="That makes water tastier."/>
     );
 }
 

@@ -1,6 +1,7 @@
+import { ContentPageHeader } from "../components/headers";
 function OthersPage() {
     return (
-        <p>Other Drinks Page</p>
+        <ContentPageHeader type="Other Drinks" title="Random Drinks" tagline="That didn't make the cut for genres."/>
     );
 }
 
