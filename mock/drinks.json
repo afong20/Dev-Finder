@@ -22,7 +22,7 @@
     "type": "tea",
     "description": "a drink made from black tea leafs.",
     "price": "3$",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfUbP1CR8BprfZMcqvUwaApSLXtmSY9pU9SyQPSCfkWHpzytoC7zy3pG2FCtaRddB1QY&usqp=CAU"
+    "image": "https://www.sharmispassions.com/wp-content/uploads/2021/05/BlackTea4-500x375.jpg"
   },
   {
     "id": 4,
@@ -30,7 +30,7 @@
     "type": "tea",
     "description": "a drink made from tea with milk added to it.",
     "price": "9$",
-    "image": "https://www.linsfood.com/wp-content/uploads/2018/10/How-to-make-Vietnamese-Coffee.jpg"
+    "image": "https://thewoksoflife.com/wp-content/uploads/2019/02/hong-kong-milk-tea.jpg"
   },
   {
     "id": 5,
@@ -38,7 +38,7 @@
     "type": "soda",
     "description": "cola brand soda.",
     "price": "6$",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfUbP1CR8BprfZMcqvUwaApSLXtmSY9pU9SyQPSCfkWHpzytoC7zy3pG2FCtaRddB1QY&usqp=CAU"
+    "image": "https://storage0.dms.mpinteractiv.ro/media/401/341/5531/16106019/1/alege-ti-coca-cola-preferata.jpg"
   },
   {
     "id": 6,
@@ -46,7 +46,7 @@
     "type": "soda",
     "description": "sugary soda water",
     "price": "6$",
-    "image": "https://www.linsfood.com/wp-content/uploads/2018/10/How-to-make-Vietnamese-Coffee.jpg"
+    "image": "https://cdn.shopify.com/s/files/1/1881/4903/files/bigstock--166807454_grande.jpg?v=1499283120"
   },
   {
     "id": 7,
@@ -54,7 +54,7 @@
     "type": "other",
     "description": "basic H2O",
     "price": "89$",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfUbP1CR8BprfZMcqvUwaApSLXtmSY9pU9SyQPSCfkWHpzytoC7zy3pG2FCtaRddB1QY&usqp=CAU"
+    "image": "https://www.news-medical.net/image.axd?picture=2021%2F7%2Fshutterstock_1548860402.jpg"
   },
   {
     "id": 8,
@@ -62,6 +62,6 @@
     "type": "other",
     "description": "crushed apples in water",
     "price": "2$",
-    "image": "https://www.linsfood.com/wp-content/uploads/2018/10/How-to-make-Vietnamese-Coffee.jpg"
+    "image": "https://www.texanerin.com/content/uploads/2021/10/how-to-make-apple-juice-cocktails-image-650x975.jpg"
   }
 ]
