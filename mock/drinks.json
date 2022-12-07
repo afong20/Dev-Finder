@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": 1,
+    "name": "Expresso",
+    "type": "coffee",
+    "description": "a drink from boiling water pressure forced through finely-ground coffee beans.",
+    "price": "5$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfUbP1CR8BprfZMcqvUwaApSLXtmSY9pU9SyQPSCfkWHpzytoC7zy3pG2FCtaRddB1QY&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "Vietnamese",
+    "type": "coffee",
+    "description": "a drink made from coffee dripping onto condensed milk added to it.",
+    "price": "8$",
+    "image": "https://www.linsfood.com/wp-content/uploads/2018/10/How-to-make-Vietnamese-Coffee.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Black",
+    "type": "tea",
+    "description": "a drink made from black tea leafs.",
+    "price": "3$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfUbP1CR8BprfZMcqvUwaApSLXtmSY9pU9SyQPSCfkWHpzytoC7zy3pG2FCtaRddB1QY&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Milk",
+    "type": "tea",
+    "description": "a drink made from tea with milk added to it.",
+    "price": "9$",
+    "image": "https://www.linsfood.com/wp-content/uploads/2018/10/How-to-make-Vietnamese-Coffee.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Coca Cola",
+    "type": "soda",
+    "description": "cola brand soda.",
+    "price": "6$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfUbP1CR8BprfZMcqvUwaApSLXtmSY9pU9SyQPSCfkWHpzytoC7zy3pG2FCtaRddB1QY&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "name": "Sprite",
+    "type": "soda",
+    "description": "sugary soda water",
+    "price": "6$",
+    "image": "https://www.linsfood.com/wp-content/uploads/2018/10/How-to-make-Vietnamese-Coffee.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Water",
+    "type": "other",
+    "description": "basic H2O",
+    "price": "89$",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfUbP1CR8BprfZMcqvUwaApSLXtmSY9pU9SyQPSCfkWHpzytoC7zy3pG2FCtaRddB1QY&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "name": "Apple Juice",
+    "type": "other",
+    "description": "crushed apples in water",
+    "price": "2$",
+    "image": "https://www.linsfood.com/wp-content/uploads/2018/10/How-to-make-Vietnamese-Coffee.jpg"
+  }
+]
