@@ -5,7 +5,7 @@ function DrinkPage({bio}) {
     return (
         <div>
             <BioHeader name={bio.name} type={bio.type} image={bio.image}/>
-            <BioTopic/>
+            <BioTopic description={bio.description} exdescript={bio.exdescript}/>
         </div>
     );
 }
@@ -16,6 +16,7 @@ export async function getStaticPaths() {
     const filePath = path.join(process.cwd(), './mock/drinks.json')
     const drinks = JSON.parse(await fs.readFile(filePath, 'utf8'))
     const paths = drinks.map(drink => ({params:{id:drink.id}}))
+
     return {
         paths,
         fallback:false

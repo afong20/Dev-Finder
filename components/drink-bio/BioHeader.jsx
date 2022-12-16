@@ -6,7 +6,7 @@ function BioHeader({name, type, image}) {
     
     return (
         <header className="p-4 mt-20">
-            <img src={image} alt="" className="w-80 h-80 mx-auto rounded-full mb-5"/>
+            <img src={image} alt="" className="w-60 h-60 mx-auto rounded-full mb-5"/>
             <h1 className="text-4xl text-slate-700 text-center">{name} {type}</h1>
         </header>
     );
