@@ -7,7 +7,7 @@ function OthersPage({drinks}) {
         <>
             <ContentPageHeader type="Other Drinks" title="Random Drinks" tagline="That didn't make the cut for genres."/>
             <main className="flex mt-10 flex-wrap justify-center max-w-5xl gap-5 mx-auto">
-                    {drinks.map(drink => <DrinkCard key={drink.id} drinkName={drink.name} image={drink.image} description={drink.description} price={drink.price}/>)}
+                    {drinks.map(drink => <DrinkCard key={drink.id} drinkName={drink.name} image={drink.image} description={drink.description} price={drink.price} id={drink.id}/>)}
             </main>
         </>
     );
