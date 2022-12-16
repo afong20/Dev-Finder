@@ -5,7 +5,7 @@ export default function Home() {
   return (
           <>
             <Head>
-              <meta name='description' content='Find the best devs for your business.' />
+              <meta name='description' content='Drinks that will sail your thirst away.' />
               <title>Drinks Ahoy</title>
             </Head>
 
